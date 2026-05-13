@@ -36,7 +36,7 @@ const Navbar: React.FC = () => {
             <div className="p-2 bg-black rounded-lg" id="navbar-logo-icon">
               <Music className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold tracking-tighter outfit uppercase" id="navbar-brand-name">GRAVITY GANG</span>
+            <span className="text-xl font-bold tracking-tighter outfit uppercase" id="navbar-brand-name">RoveR</span>
           </div>
 
           {/* Desktop Nav */}

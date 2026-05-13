@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
               <span className="gradient-text">THE STREETS</span>
             </h1>
             <p id="hero-description" className="text-xl text-text-secondary mb-12 max-w-2xl mx-auto leading-relaxed">
-              GRAVITY GANG is a underground hip-hop collective breaking the norms. No labels, no limits. Just raw bars and heavy beats.
+              RoveR is a underground hip-hop collective breaking the norms. No labels, no limits. Just raw bars and heavy beats.
             </p>
           </motion.div>
 

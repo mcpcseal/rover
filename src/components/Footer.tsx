@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
               <div className="p-2 bg-accent-primary rounded-lg" id="footer-logo-icon">
                 <Music className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold tracking-tighter outfit uppercase" id="footer-brand-name">GRAVITY GANG</span>
+              <span className="text-xl font-bold tracking-tighter outfit uppercase" id="footer-brand-name">RoveR</span>
             </div>
             <p className="text-text-secondary text-lg max-w-md leading-relaxed mb-8" id="footer-description">
               The underground collective redefining the sounds of the street. Pure hustle, no labels.
@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
 
         <div className="pt-8 border-t border-white/5 flex flex-col md:row items-center justify-between gap-4" id="footer-bottom">
           <p className="text-text-secondary text-sm" id="footer-copyright">
-            © 2026 GRAVITY GANG. ALL RIGHTS RESERVED.
+            © 2026 RoveR. ALL RIGHTS RESERVED.
           </p>
           <div className="flex gap-8 text-sm text-text-secondary" id="footer-legal-links">
             <a href="#" id="footer-link-privacy" className="hover:text-white transition-colors">Privacy Policy</a>

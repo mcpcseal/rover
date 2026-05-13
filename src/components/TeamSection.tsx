@@ -36,7 +36,7 @@ const TeamSection: React.FC = () => {
           <div className="absolute inset-0 bg-gradient-to-t from-bg-primary via-transparent to-transparent" id="team-banner-overlay"></div>
           <div className="absolute bottom-10 left-10" id="team-banner-content">
             <h2 className="text-4xl md:text-6xl font-black tracking-tighter uppercase mb-2" id="team-banner-title">
-              THE <span className="gradient-text">GANG</span>
+              THE <span className="gradient-text">RoveR</span>
             </h2>
             <p className="text-text-secondary font-medium tracking-widest uppercase" id="team-banner-subtitle">Pure Hustle, No Compromise</p>
           </div>
