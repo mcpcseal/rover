@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
               <div className="p-2 bg-accent-primary rounded-lg" id="footer-logo-icon">
                 <Music className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold tracking-tighter outfit uppercase" id="footer-brand-name">GRAVITY <span className="gradient-text">GANG</span></span>
+              <span className="text-xl font-bold tracking-tighter outfit uppercase" id="footer-brand-name">GRAVITY GANG</span>
             </div>
             <p className="text-text-secondary text-lg max-w-md leading-relaxed mb-8" id="footer-description">
               The underground collective redefining the sounds of the street. Pure hustle, no labels.
@@ -21,17 +21,17 @@ const Footer: React.FC = () => {
           </div>
 
           <div id="footer-nav-section">
-            <h4 className="text-white font-bold uppercase tracking-widest mb-8" id="footer-nav-title">Navigation</h4>
+            <h4 className="text-black font-bold uppercase tracking-widest mb-8" id="footer-nav-title">Navigation</h4>
             <ul className="flex flex-col gap-4" id="footer-nav-list">
-              <li><a href="#" id="footer-link-home" className="text-text-secondary hover:text-white transition-colors">Home</a></li>
-              <li><a href="#music" id="footer-link-music" className="text-text-secondary hover:text-white transition-colors">Music</a></li>
-              <li><a href="#team" id="footer-link-team" className="text-text-secondary hover:text-white transition-colors">Team</a></li>
-              <li><a href="#contact" id="footer-link-contact" className="text-text-secondary hover:text-white transition-colors">Contact</a></li>
+              <li><a href="#" id="footer-link-home" className="text-text-secondary hover:text-black transition-colors">Home</a></li>
+              <li><a href="#music" id="footer-link-music" className="text-text-secondary hover:text-black transition-colors">Music</a></li>
+              <li><a href="#team" id="footer-link-team" className="text-text-secondary hover:text-black transition-colors">Team</a></li>
+              <li><a href="#contact" id="footer-link-contact" className="text-text-secondary hover:text-black transition-colors">Contact</a></li>
             </ul>
           </div>
 
           <div id="footer-connect-section">
-            <h4 className="text-white font-bold uppercase tracking-widest mb-8" id="footer-connect-title">Connect</h4>
+            <h4 className="text-black font-bold uppercase tracking-widest mb-8" id="footer-connect-title">Connect</h4>
             <ul className="flex flex-col gap-6" id="footer-connect-list">
               <li className="flex items-center gap-3 text-text-secondary" id="footer-contact-email">
                 <Mail className="w-5 h-5 text-accent-primary" />
